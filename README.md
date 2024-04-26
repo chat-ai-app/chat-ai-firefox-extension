@@ -1,0 +1,1 @@
+# chat-ai-firefox-extension
